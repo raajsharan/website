@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: raajsharan/assign
+        image: raajsakthi/assign2
         ports:
         - containerPort: 80
